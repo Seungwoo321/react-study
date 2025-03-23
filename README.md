@@ -28,7 +28,7 @@ React를 학습 기록을 담은 개인 레포지토리입니다.
 - 사용 기술: react, react-router, vite, eslint, typescript, tailwind, react-query, shadcn-ui, appwrite
 - 설명: 유튜브 보면서 클론 프로젝트를 진행
 
-### 프로젝트5: [tiktok-clone-nextjs](https://github.com/Seungwoo321/tiktok-clone-nextjs)
+### 프로젝트5: [tiktok-clone-nextjs](./packages/tiktok-clone-nextjs)
 
 - 기간: 2024. 05. 14 ~ (진행중)
 - 사용 기술: react, next, vite, typescript, tailwind, zustand
